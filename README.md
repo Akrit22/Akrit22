@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Akrit Pathania</h1>
 <h3 align="center">Aspiring Data Scientist | Python & C/C++ Developer | Streamlit Enthusiast</h3>
-<h4 align="center">### 🧰 Tools & Technologies
+<h4 align="center">🧰 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -43,9 +43,12 @@ Mini terminal based projects using **pure C**—ideal for beginners learning fil
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akrit22&show_icons=true&theme=dark" alt="Akrit's GitHub Stats" />
-  <br />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akrit22&theme=dark" alt="Akrit's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrit22&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
+
 
 ---
 
