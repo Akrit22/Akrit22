@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Akrit Pathania</h1>
+<h3 align="center">Aspiring Data Scientist | Python & C/C++ Developer | Streamlit Enthusiast</h3>
 
-<!--
-**Akrit22/Akrit22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE - Data Science
+- 🧠 Passionate about **problem-solving**, **low-level programming**, and **building apps**
+- 💬 Skilled in **Python**, **C**, **C++**, and **Streamlit**
+- 💡 Learning full-stack dev and real-time app deployment
+- 📹 Fitness YouTuber in my free time
+- 📫 Reach me at: **akritpathania22@gmail.com**
+
+---
+
+### 🚀 Highlighted Projects
+
+#### 📌 [Typing-Speed-Test-Web-App](https://github.com/Akrit22/Typing-Speed-Test-Web-App)
+A **Streamlit-based typing speed test** with live WPM, accuracy calculation, countdown timer, and a smooth UI.  
+> **Tech**: Python, Streamlit, Web Deployment
+
+#### 🖥️ [typing_speed_checker](https://github.com/Akrit22/typing_speed_checker)
+A **terminal-based** Python application to measure your typing speed and accuracy on random sentences.  
+> **Tech**: Python, CLI, Speed Test Logic
+
+#### 🎮 [python_ak_mini_games](https://github.com/Akrit22/python_ak_mini_games)
+A collection of **fun mini games** like number guessing, Rock-paper-game, and more—entirely built in Basic Python.
+
+#### ⚙️ [c_mini_project](https://github.com/Akrit22/c_mini_project)
+Mini terminal based projects using **pure C**—ideal for beginners learning file handling, pointers, and logic-building.
+
+---
+
+### 🧰 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akrit22&show_icons=true&theme=dark" alt="Akrit's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akrit22&theme=dark" alt="Akrit's GitHub Streak" />
+</p>
+
+---
+
+### 🌟 Support My Work
+
+If you like my work, give a ⭐ to the repos you find helpful or interesting!
+
+---
+
