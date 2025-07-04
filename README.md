@@ -27,6 +27,11 @@
 A **Streamlit-based typing speed test** with live WPM, accuracy calculation, countdown timer, and a smooth UI.  
 > **Tech**: Python, Streamlit, Web Deployment
 
+#### 📌 [diabetes_prediction_model](https://github.com/Akrit22/diabetes_prediction_model)
+A **terminal-based diabetes prediction app** using Decision Tree Classifier on the Pima Indians dataset. Includes preprocessing, evaluation metrics, feature importance plot, and real-time user input prediction.  
+> **Tech**: Python, scikit-learn, pandas, matplotlib
+
+
 #### 🖥️ [typing_speed_checker](https://github.com/Akrit22/typing_speed_checker)
 A **terminal-based** Python application to measure your typing speed and accuracy on random sentences.  
 > **Tech**: Python, CLI, Speed Test Logic
