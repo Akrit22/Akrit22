@@ -51,7 +51,7 @@ Mini terminal based projects using **pure C**—ideal for beginners learning fil
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akrit22&theme=dark" alt="Akrit's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrit22&layout=compact&theme=dark" alt="Most Used Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrit22&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 
