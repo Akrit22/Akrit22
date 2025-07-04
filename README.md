@@ -44,15 +44,13 @@ Mini terminal based projects using **pure C**—ideal for beginners learning fil
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akrit22&show_icons=true&theme=dark" alt="Akrit's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akrit22&theme=dark" alt="Akrit's GitHub Streak" />
-  <br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrit22&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
+![Akrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akrit22&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akrit22&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akrit22&theme=tokyonight)
 
 
 ---
