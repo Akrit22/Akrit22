@@ -28,7 +28,7 @@ A **Streamlit-based typing speed test** with live WPM, accuracy calculation, cou
 > **Tech**: Python, Streamlit, Web Deployment
 
 #### 📌 [Diabetes_Prediction_App](https://github.com/Akrit22/Diabetes_Prediction_App)
-A Streamlit-based diabetes prediction app using Decision Tree Classifier and Pima Indians dataset. Real-time health data prediction with clean UI.
+A **Streamlit-based diabetes prediction app** using Decision Tree Classifier and Pima Indians dataset. Real-time health data prediction with clean UI.
 > **Tech**: Python, Streamlit, scikit-learn, pandas, joblib
 
 #### 📌 [diabetes_prediction_model](https://github.com/Akrit22/diabetes_prediction_model)
