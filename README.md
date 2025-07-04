@@ -23,13 +23,14 @@
 
 ### 🚀 Highlighted Projects
 
+#### 📌 [Diabetes_Prediction_App](https://github.com/Akrit22/Diabetes_Prediction_App)
+A **Streamlit-based diabetes prediction app** using Decision Tree Classifier and Pima Indians dataset. Real-time health data prediction with clean UI.
+> **Tech**: Python, Streamlit, scikit-learn, pandas, joblib
+
 #### 📌 [Typing-Speed-Test-Web-App](https://github.com/Akrit22/Typing-Speed-Test-Web-App)
 A **Streamlit-based typing speed test** with live WPM, accuracy calculation, countdown timer, and a smooth UI.  
 > **Tech**: Python, Streamlit, Web Deployment
 
-#### 📌 [Diabetes_Prediction_App](https://github.com/Akrit22/Diabetes_Prediction_App)
-A **Streamlit-based diabetes prediction app** using Decision Tree Classifier and Pima Indians dataset. Real-time health data prediction with clean UI.
-> **Tech**: Python, Streamlit, scikit-learn, pandas, joblib
 
 #### 📌 [diabetes_prediction_model](https://github.com/Akrit22/diabetes_prediction_model)
 A **terminal-based diabetes prediction** using Decision Tree Classifier on the Pima Indians dataset. Includes preprocessing, evaluation metrics, feature importance plot, and real-time user input prediction.  
