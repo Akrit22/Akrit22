@@ -23,6 +23,12 @@
 
 ### 🚀 Highlighted Projects
 
+#### 📌 [Smart_Converter_Hub](https://github.com/Akrit22/Smart_Converter_hub)  
+A **Streamlit-based multi-tool app** that provides smart conversions and AI-powered document handling. Includes PDF to Audio, Text to Audio, Audio to PDF (speech-to-text), and AI PDF Summarizer using NLP and TF-IDF. Fully deployed with modern multipage UI.  
+> **Tech**: Python, Streamlit, gTTS, SpeechRecognition, NLP, TF-IDF, PyPDF2, Transformers  
+> **Live App**: [Smart Converter Hub](https://fulatx9v7y4wfoq4apwkr8.streamlit.app/)
+
+
 #### 📌 [Diabetes_Prediction_App](https://github.com/Akrit22/Diabetes_Prediction_App)
 A **Streamlit-based diabetes prediction app** using Decision Tree Classifier and Pima Indians dataset. Real-time health data prediction with clean UI.
 > **Tech**: Python, Streamlit, scikit-learn, pandas, joblib
